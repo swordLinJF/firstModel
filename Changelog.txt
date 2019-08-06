@@ -1,0 +1,28 @@
+**
+
+##  **New Release: Version 1.6** ##
+
+ **Whats new ?**
+
+
+ -  Bootstrap 3.3.7 , Latest Font awesome and updated jquery plugins.
+ -  Updated zoom plugin
+ -  important bug fixed
+ -  Updated css and javaScripts
+ -  more...
+
+
+
+# css line 5078 change banner
+
+ .banner {
+        margin-top: 70px !important;
+    }
+    */
+    .banner {
+        margin-top: 85px !important;
+    }
+# fixed category.html filter bur responsive and floating issue
+# fixed header-version-2/3/4 banner padding issue on mobile device
+# Banner Height changed 540px to 640px
+# more ..
